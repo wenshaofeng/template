@@ -1,5 +1,6 @@
 # vue-cource
 
+Vue-cli 3.0+ 创建初始项目的模板
 ## Project setup
 ```
 npm install
